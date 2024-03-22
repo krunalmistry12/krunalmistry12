@@ -15,9 +15,9 @@
 <h2>Connect with Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/keval-patel24" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://instagram.com/kevalpatel_24" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="https://twitter.com/kevalp24" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
+  <a href="https://www.linkedin.com/in/krunal-mistry-68243724a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/_kunaal12" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!--   <a href="https://twitter.com/kevalp24" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a> -->
 </p>
 
 <h2>Languages and Tools</h2>
@@ -67,20 +67,20 @@
 <h2>Github Profile Stats</h2>
 
 <p>
-  <a href="https://github.com/KevalP24/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KevalP24">
+  <a href="https://github.com/krunalmistry12/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=krunalmistry12">
   </a>
-  <a href="https://github.com/KevalP24?tab=followers">
-    <img src="https://img.shields.io/github/followers/KevalP24?label=Followers&style=social" alt="GitHub Badge">
+  <a href="https://github.com/krunalmistry12?tab=followers">
+    <img src="https://img.shields.io/github/followers/krunalmistry12?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KevalP24&show_icons=true&locale=en" alt="KevalP24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krunalmistry12&show_icons=true&locale=en" alt="krunalmistry12" />
 </p>
 
 <h2>Github Contribution Stats</h2>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevalP24&" alt="KevalP24" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevalP24&" alt="krunalmistry12" />
 </p>
