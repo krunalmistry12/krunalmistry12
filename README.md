@@ -82,5 +82,5 @@
 <h2>Github Contribution Stats</h2>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevalP24&" alt="krunalmistry12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krunalmistry12&" alt="krunalmistry12" />
 </p>
